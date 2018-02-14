@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const server = app.listen(3002, on);
+const server = app.listen(3001, on);
 
 function on() {
     console.log('Server on');

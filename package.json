@@ -1,0 +1,24 @@
+{
+  "name": "exercise-ajax-fetch",
+  "version": "1.0.0",
+  "description": "***",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsy18/exercise-ajax-fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betsy18/exercise-ajax-fetch/issues"
+  },
+  "homepage": "https://github.com/betsy18/exercise-ajax-fetch#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
