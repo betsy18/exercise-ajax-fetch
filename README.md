@@ -5,6 +5,7 @@
 Implementación del método XMLHttpRequest para el trabajo de data de manera asíncrona(Ajax). De la mano de la api del NY Times para la búsqueda de noticias.
 
 * Vista previa
+![img](assets/fetch.png)
 
 
 ## Herramientas
